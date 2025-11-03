@@ -6,7 +6,7 @@ An attempt at remaking the famous donut.c in Roblox Luau.
 > Create a text label, scale it, add a LocalScript and paste the code.
 > Though... I don't know why anyone would even use this anyway...
 
-![NOTICE]
+[!NOTICE]
 > The code is ALMOST donut shaped, it took longer to shape it into a donut than it took
 > to write it... Yes!
 
