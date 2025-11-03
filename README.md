@@ -1,6 +1,6 @@
 # DonutLuau
 
-An attempt at remaking the famous donut.c in Roblox.
+An attempt at remaking the famous donut.c in Roblox Luau.
 
 # How to use?
 > Create a text label, scale it, add a LocalScript and paste the code.
